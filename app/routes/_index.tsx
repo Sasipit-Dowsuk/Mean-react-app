@@ -55,8 +55,8 @@ export default function Index() {
 
 const resources = [
   {
-    href: "https://github.com/Sasipit-Dowsuk/Mean-react-app",
-    text: "lab1:defaut Mean app",
+    href: "http://localhost:5173/",
+    text: "lab01 (08/07/2568)",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -77,7 +77,7 @@ const resources = [
   },
   {
     href: "http://localhost:5173/Mean_lab02",
-    text: "Lab02:First component",
+    text: "Lab02 (17/07/2568)",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
