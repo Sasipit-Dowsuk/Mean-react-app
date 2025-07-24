@@ -97,8 +97,8 @@ const resources = [
     ),
   },
   {
-    href: "https://github.com/Sasipit-Dowsuk/Mean-react-app",
-    text: "Lab03:Profile component",
+    href: "http://localhost:5173/lab03",
+    text: "Lab03 (24/07/2568)",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
