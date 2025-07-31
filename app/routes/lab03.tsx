@@ -1,6 +1,7 @@
 // Filename: lab03.tsx
 import Profile from "./components/Profile";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 export default function Myprofile(){
   return (
@@ -29,6 +30,9 @@ export default function Myprofile(){
         <div className="ps-5 pe-5 pt-3 pb-1 bg-rose-400 rounded w-16 flex justifly-center mt-5">
         <a href="/">Back</a>
     </div>
+        <Footer
+        title={"Sasipit Dowsuk"}
+        />
     </>
   );
 }
