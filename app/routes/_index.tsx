@@ -176,4 +176,25 @@ const resources = [
       </svg>
     ),
   },
+
+    {
+    href: "http://localhost:5173/lab07",
+    text: "Lab07 (28/08/2568)",
+    icon: (
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="24"
+        height="20"
+        viewBox="0 0 20 20"
+        fill="none"
+        className="stroke-gray-600 group-hover:stroke-current dark:stroke-gray-300"
+      >
+        <path
+          d="M6 18 18 6M6 6l12 12"
+          strokeWidth="1.5"
+          strokeLinecap="round"
+        />
+      </svg>
+    ),
+  },
 ];
